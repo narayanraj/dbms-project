@@ -1,2 +1,2 @@
-# dbms-project
-Vehicle mgmt system in campus
+# Dbms project
+ Visitor & vehicle mgmt system in campus
